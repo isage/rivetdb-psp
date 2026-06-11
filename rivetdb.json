@@ -3816,7 +3816,7 @@
         "name": "SCE_URI_INVALID_ID",
         "description": "Invalid ID"
       },
-      "0x1022": {
+      "0x3022": {
         "name": "SCE_URI_OUT_OF_MEMORY",
         "description": "Out of memory"
       },
