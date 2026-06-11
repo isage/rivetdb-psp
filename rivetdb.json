@@ -2655,9 +2655,17 @@
         "name": "SCE_AUDIO_ERROR_NOT_OUTPUT",
         "description": "not output"
       },
+      "0x000A": {
+        "name": "SCE_AUDIO_ERROR_INVALID_FREQUENCY",
+        "description": "invalid frequency"
+      },
       "0x000B": {
         "name": "SCE_AUDIO_ERROR_INVALID_VOLUME",
         "description": "invalid volume"
+      },
+      "0x0010": {
+        "name": "SCE_AUDIO_ERROR_INPUT_BUSY",
+        "description": "input busy"
       }
     }
   },
