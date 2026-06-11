@@ -2218,7 +2218,7 @@
       "0x1AFF": {
         "name": "SCE_UTILITY_AUTO_CONNECT_ERROR_INTERNAL",
         "description": "Internal error"
-      },
+      }
     }
   },
   "0x012": {
