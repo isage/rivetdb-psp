@@ -2233,7 +2233,7 @@
   },
   "0x021": {
     "name": "SCE_ERROR_FACILITY_UMD",
-    "description": "MS app error facility",
+    "description": "UMD error facility",
     "errors": {
       "0x1001": {
         "name": "SCE_UMD_NOT_DEVICE_READY",
